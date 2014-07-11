@@ -31,6 +31,8 @@ favoritecollection
 ### Python 执行js的2种解决方案
 * http://new.pythoner.net/wiki/845/
 
+### 标签云怎么搞出来的？
+* http://tech.uc.cn/?p=2625
 
 
 
