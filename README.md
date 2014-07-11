@@ -16,5 +16,15 @@ favoritecollection
 ### Python实现的分布式计算框架：DPark     
 * http://www.open-open.com/lib/view/open1370500999727.html
 
+### 基于Redis实现多个tornado进程间消息通信
+* http://liming.me/2013/08/08/torcast/
+
+### Python Multiprocessing with ZeroMQ
+* http://taotetek.net/2011/02/02/python-multiprocessing-with-zeromq/
+
+### 使用python logging处理多进程写同一个日志文件
+* http://www.cfanz.cn/index.php?c=article&a=read&id=27546
+
+
 
 
