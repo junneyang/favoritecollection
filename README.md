@@ -25,6 +25,13 @@ favoritecollection
 ### 使用python logging处理多进程写同一个日志文件
 * http://www.cfanz.cn/index.php?c=article&a=read&id=27546
 
+### 使用python logging处理多进程写同一个日志文件
+* http://www.tuicool.com/articles/z2YnYv
+
+### Python 执行js的2种解决方案
+* http://new.pythoner.net/wiki/845/
+
+
 
 
 
