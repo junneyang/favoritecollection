@@ -34,6 +34,23 @@ favoritecollection
 ### 标签云怎么搞出来的？
 * http://tech.uc.cn/?p=2625
 
+### linux github操作命令
+* 创建：
+mkdir autotestplatform
+cd autotestplatform/
+git init
+
+拉取：
+git pull https://github.com/junneyang/autotestplatform.git master
+
+提交：
+git add autotestPlatform/
+git commit -m "ndsisvsvds"
+git remote add origin https://github.com/junneyang/autotest_platform.git
+git push origin master
+
+参考：
+http://blog.csdn.net/chenguolinblog/article/details/19929509
 
 
 
